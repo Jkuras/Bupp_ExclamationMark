@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "Button Doodad",
+			"path": ".."
+		},
+		{
+			"name": "lil tester",
+			"path": "../../../../../../PlatformIO/Projects/lil tester"
+		}
+	],
+	"settings": {}
+}
