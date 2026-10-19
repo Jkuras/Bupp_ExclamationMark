@@ -1,6 +1,10 @@
-#include "Arduino.h"
-#include "Wire.h"
-#include "LiquidCrystal_I2C.h"
+// THIS IS THE V1 BUTTON DOODAD
+// THIS CODE IS NO LONGER IN USE, USE V2
+// THE HUMANS KNOW THE RULES, THE MACHINE IS JUST FOR BUTTONS AND SAMPLES!
+
+#include <Arduino.h>
+#include <Wire.h>
+#include <LiquidCrystal_I2C.h>
 
 #define PANEL_IN_SHIFT 3
 #define PANEL_IN_CLOCK 2
